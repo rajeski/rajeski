@@ -2,6 +2,8 @@
 
 This is a work-in-progress draft which is currently being crafted...
 
+## Analytical, Organizational Change and Leadership | Guiding resourceful humans with integrity and strategic-management | Lifelong Learner
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
