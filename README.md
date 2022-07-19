@@ -1,8 +1,10 @@
-### Hi there 👋
-
-This is a work-in-progress draft which is currently being crafted...
-
 ## Analytical, Organizational Change and Leadership | Guiding resourceful humans with integrity and strategic-management | Lifelong Learner
+
+### Pay it forward - a guiding career foundation.
+
+#### Colleagues would describe me as a curious, dedicated, empathetic, team-player or individual contributor with an optimistic and proactive drive to face any challenge head-on. Currently, seeking a gainful, 100%-remote role with a global company in any of these areas a) People Analytics; b) Human Resources Management; c) Data Analytics.
+
+#### As a lifelong learner, my passion is creating greater accessibility and inclusion through decentralization across cultures and diverse communities – committed to being and celebrating 'resourceful humans' by embracing a leader-servant mindset embodied in mentorship to address and solve real-world challenges.
 
 Here are some ideas to get you started:
 
@@ -14,6 +16,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### Hi there 👋
+
+This is a work-in-progress draft which is currently being crafted...
 
 
 <!--
