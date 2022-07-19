@@ -1,3 +1,5 @@
+# Overview 
+
 ## Analytical, Organizational Change and Leadership | Guiding resourceful humans with integrity and strategic-management | Lifelong Learner
 
 ### Pay it forward - a guiding career foundation.
@@ -31,8 +33,62 @@ A deep-appreciation for receiving mentorship and demonstrated business expertise
  • Co-founded a mobile phone application company - concept to commercialization - including raising $5 million in Venture Capital
 
  • Set-up; trained and hired a Back Office staff of 25 in India
+ 
+# EXECUTIVE SUMMARY 
+ 
+SKILLS
 
-Here are some ideas to get you started:
+People / Project Management | Research | Strategy | Operations | Business Development | Leadership
+
+RECENT BUSINESS EXPERIENCE
+
+Career Coach	January 2021 – Present
+CareerFoundry | Remote to Berlin, Germany and internationally
+
+Career coach students from the EU’s leading online UI/UX design, Web Development, and Data Analytics/Science education provider. 
+
+•	Advise an international student roster of 50 in a variety of time zones around the world
+•	Partner with students to create customized job search plans and strategies (concept to job-acceptance) 
+
+PREVIOUS TEACHING EXPERIENCE
+
+Adjunct Professor	March 2018 – March 2021
+Temple University Japan | Tokyo, Japan
+
+Worked with undergraduate students in person and virtually; courses included business, communication, creativity, critical thinking, and presentation and academic research. Guest lectured at Hosei University (in Tokyo).
+
+•	Developed and executed education strategy by adapting curriculum to implement applied-based pedagogical frameworks—encouraged students to embrace shift in thinking from Confucian thinking to Socratic questioning
+
+Career Note: Held various Assistant Professor positions in South Korea	March 2011 – December 2017
+
+EDUCATION
+
+Doctorate in Education (Ed.D.) in Organizational Change and Leadership | University of Southern California
+
+Dissertation: Access, Agency and Ascent: A Case Study of How South Korean Students Navigate Their Educational Choices for Advancing Their Career Development	
+
+RELEVANT DOCTORAL-COURSEWORK
+
+Diversity, Equity & Inclusion | Human Resources Performance Analysis | Organizational Leadership | Systems Analysis
+
+CERTIFICATIONS 
+
+Online Coding Coursework | JavaScript | React | Tableau 
+
+▪	Data Analytics Certification, Springboard – 2020 - 2022 
+
+▪	Full-Stack Web Development Immersion Program | Intro to Frontend Development, CareerFoundry – 2019 - 2020 
+
+TECHNICAL SKILLS
+
+Data Analysis | Matplotlib | Numpy | Pandas | Plotly | Python | Seaborn | Scikit-Learn | SQL | Tableau 
+
+
+
+
+
+
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -45,8 +101,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-This is a work-in-progress draft which is currently being crafted...
-
+This is a work-in-progress draft which is currently being crafted -->
 
 <!--
 **rajeski/rajeski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
