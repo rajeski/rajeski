@@ -47,6 +47,16 @@ TECHNICAL SKILLS
 
 Data Analysis | Matplotlib | Numpy | Pandas | Plotly | Python | Seaborn | Scikit-Learn | SQL | Tableau 
 
+PROJECTS 
+
+People Analytics Case Study – Findings show strategies to decrease attrition through training and compensation 
+
+•	Used Adaboostclassifier; Decision-Tree Classifier; Logistic Regression; Random-Forest Generator; Seaborn; Sklearn to analyze employee satisfaction, tenure, and performance 
+
+Global PISA Scores – Benchmark top-nations as a basis for creating more equity in global education standards 
+
+•	Univariate data analysis of 2012 OECD PISA rankings with visualizations (executive, technical and non-technical)
+
 # Overview 
 
 ## Analytical, Organizational Change and Leadership | Guiding resourceful humans with integrity and strategic-management | Lifelong Learner
