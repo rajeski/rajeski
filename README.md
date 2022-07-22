@@ -47,7 +47,7 @@ TECHNICAL SKILLS
 
 Data Analysis | Matplotlib | Numpy | Pandas | Plotly | Python | Seaborn | Scikit-Learn | SQL | Tableau 
 
-PROJECTS 
+PROJECTS (GitHub)
 
 People Analytics Case Study – Findings show strategies to decrease attrition through training and compensation 
 
