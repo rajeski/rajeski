@@ -14,6 +14,8 @@ Career coach students from the EU’s leading online UI/UX design, Web Developme
 •	Advise an international student roster of 50 in a variety of time zones around the world
 •	Partner with students to create customized job search plans and strategies (concept to job-acceptance) 
 
+Career Note: Held various Executive roles with increasing responsibilities in Silicon Valley, March 2000 – December 2010
+
 PREVIOUS TEACHING EXPERIENCE
 
 Adjunct Professor	March 2018 – March 2021
@@ -23,7 +25,7 @@ Worked with undergraduate students in person and virtually; courses included bus
 
 •	Developed and executed education strategy by adapting curriculum to implement applied-based pedagogical frameworks—encouraged students to embrace shift in thinking from Confucian thinking to Socratic questioning
 
-Career Note: Held various Assistant Professor positions in South Korea	March 2011 – December 2017
+Career Note: Held various Assistant Professor positions in South Korea, March 2011 – December 2017
 
 EDUCATION
 
