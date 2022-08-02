@@ -11,7 +11,8 @@ CareerFoundry | Remote to Berlin, Germany and internationally
 
 Career coach students from the EU’s leading online UI/UX design, Web Development, and Data Analytics/Science education provider. 
 
-•	Advise an international student roster of 50 in a variety of time zones around the world
+•	Advise an international student roster of transitioning learners in a variety of time zones around the world
+
 •	Partner with students to create customized job search plans and strategies (concept to job-acceptance) 
 
 Career Note: Held various Executive roles with increasing responsibilities in Silicon Valley, March 2000 – December 2010
