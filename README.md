@@ -34,7 +34,7 @@ Doctorate in Education (Ed.D.) in Organizational Change and Leadership | Univers
 
 Dissertation: Access, Agency and Ascent: A Case Study of How South Korean Students Navigate Their Educational Choices for Advancing Their Career Development	
 
-RELEVANT DOCTORAL-COURSEWORK
+(RELEVANT) DOCTORAL-COURSEWORK
 
 Diversity, Equity & Inclusion | Human Resources Performance Analysis | Organizational Leadership | Systems Analysis
 
