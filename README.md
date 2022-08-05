@@ -2,7 +2,7 @@
  
 SKILLS
 
-People / Project Management | Research | Strategy | Operations | Business Development | Leadership
+People / Project Management | Learning & Development | Research | Strategy | Operations | Business Development | Leadership
 
 RECENT BUSINESS EXPERIENCE
 
