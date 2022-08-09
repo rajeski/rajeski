@@ -1,4 +1,8 @@
 # EXECUTIVE SUMMARY 
+
+SUMMARY
+
+Detailed and motivated Executive with proven Business, Data Analytics, Learning & Development, Mentorship, Operational and Organizational Leadership skills focused on assisting organizations make better data-driven decisions.
  
 SKILLS
 
