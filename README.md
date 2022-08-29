@@ -2,67 +2,63 @@
 
 SUMMARY
 
-Detailed and motivated Executive with proven Business, Data Analytics, Learning & Development, Mentorship, Operational and Organizational Leadership skills focused on assisting organizations make better data-driven decisions.
- 
+Detailed and motivated Data Analytics professional with a background utilizing Python, SQL and Tableau for data exploration and visualization for both technical and non-technical audiences. Currently seeking Data Analytics opportunities as a Data/People Analyst supporting organizations to make better data-driven business decisions.
+
 SKILLS
 
-Data Analytics | People / Project Management | Research | Strategy | Operations | Leadership | Learning & Development 
+Languages: Python (Numpy, Pandas, Scikit-Learn) SQL
+Data Collection: CSV, JSON, Web-Scraping
+Data Visualization: Excel, Matplot Lib, Plotly, Power BI, Tableau Business: People/Project Management, Operations, Research, Strategy
+
+CERTIFICATIONS JavaScript | React | Tableau
+Springboard, Data Analytics Certification (Industry-leading, Intensive, 400 hours Data Analytics Course) – 2020 - 2022
+CareerFoundry, Full-Stack Web Development Immersion Certification – 2019 - 2020
+
+PROJECTS
+
+People Analytics Case Study – 
+
+Proposed strategies to decrease attrition through training and compensation
+
+• Used Adaboostclassifier; Decision-Tree Classifier; Logistic Regression; Random-Forest Generator; Seaborn; 
+Sklearn to analyze employee satisfaction, tenure, and performance 
+
+Global PISA Scores –
+
+•  Benchmarked top-nations as a basis for creating more equity in global education standards
+Univariate data analysis of 2012 OECD PISA rankings with visualizations (executive, technical and non-technical)
 
 RECENT BUSINESS EXPERIENCE
 
-Career Coach	January 2021 – Present
+Career Coach
+
+January 2021 – Present
+
 CareerFoundry | Remote to Berlin, Germany and internationally
+Career coach for UI/UX design, Web Development, and Data Analytics/Science students. 
 
-Career coach students from the EU’s leading online UI/UX design, Web Development, and Data Analytics/Science education provider. 
+Duties include –
 
-•	Advise an international student roster of transitioning learners in a variety of time zones around the world
+• Partner with students to create customized job search plans and strategies (concept to job-acceptance)
+• Advise an international student roster in a variety of time zones around the world
 
-•	Partner with students to create customized job search plans and strategies (concept to job-acceptance) 
+Career Note: Held various Executive roles with increasing responsibilities in Silicon Valley Mar. 2000 – Dec. 2011 PREVIOUS TEACHING EXPERIENCE
 
-Career Note: Held various Executive roles with increasing responsibilities in Silicon Valley, March 2000 – December 2010
+Adjunct Professor March 2018 – March 2021
 
-PREVIOUS TEACHING EXPERIENCE
-
-Adjunct Professor	March 2018 – March 2021
 Temple University Japan | Tokyo, Japan
 
-Worked with undergraduate students in person and virtually; courses included business, communication, creativity, critical thinking, and presentation and academic research. Guest lectured at Hosei University (in Tokyo).
+Worked with undergraduate students (on-campus/virtually); courses included business, communication, creativity, critical thinking, and presentation and academic research. Guest lectured at Hosei University (in Tokyo).
 
-•	Developed and executed education strategy by adapting curriculum to implement applied-based pedagogical frameworks—encouraged students to embrace shift in thinking from Confucian thinking to Socratic questioning
+• Developed and executed education strategy by adapting curriculum to implement applied-based pedagogical frameworks—encouraged students to embrace shift in thinking from Confucian thinking to Socratic questioning
 
-Career Note: Held various Assistant Professor positions in South Korea, March 2011 – December 2017
+Career Note: Held various Assistant Professor positions in South Korea and Vietnam Mar. 2011 – Dec. 2017 EDUCATION
 
-EDUCATION
+Doctorate in Education (Ed.D.) in Organizational Change and Leadership | University of Southern California Dissertation: Access, Agency and Ascent: A Case Study of How South Korean Students Navigate Their Educational Choices for Advancing Their Career Development
 
-Doctorate in Education (Ed.D.) in Organizational Change and Leadership | University of Southern California
+Coursework (included): Diversity, Equity & Inclusion, Human Resources Management, Organizational Change, Crisis Management and Leadership, Systems Analysis
 
-Dissertation: Access, Agency and Ascent: A Case Study of How South Korean Students Navigate Their Educational Choices for Advancing Their Career Development	
-
-(RELEVANT) DOCTORAL-COURSEWORK
-
-Diversity, Equity & Inclusion | Human Resources Performance Analysis | Organizational Leadership | Systems Analysis
-
-CERTIFICATIONS 
-
-Online Coding Coursework | JavaScript | React | Tableau 
-
-▪	Data Analytics Certification, Springboard – 2020 - 2022 
-
-▪	Full-Stack Web Development Immersion Program | Intro to Frontend Development, CareerFoundry – 2019 - 2020 
-
-TECHNICAL SKILLS
-
-Data Analysis | Matplotlib | Numpy | Pandas | Plotly | Python | Seaborn | Scikit-Learn | SQL | Tableau 
-
-PROJECTS (GitHub)
-
-People Analytics Case Study – Findings show strategies to decrease attrition through training and compensation 
-
-•	Used Adaboostclassifier; Decision-Tree Classifier; Logistic Regression; Random-Forest Generator; Seaborn; Sklearn to analyze employee satisfaction, tenure, and performance 
-
-Global PISA Scores – Benchmark top-nations as a basis for creating more equity in global education standards 
-
-•	Univariate data analysis of 2012 OECD PISA rankings with visualizations (executive, technical and non-technical)
+Master of Arts, Teaching | University of Southern California
 
 # Overview 
 
