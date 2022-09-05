@@ -2,59 +2,63 @@
 
 SUMMARY
 
-Detailed and motivated Data Analytics professional with a background utilizing Python, SQL and Tableau for data exploration and visualization for both technical and non-technical audiences. Currently seeking Data Analytics opportunities as a Data/People Analyst supporting organizations to make better data-driven business decisions.
+Process-oriented data analyst with a background in Python, SQL, and Tableau. Experienced in research and utilizing data to furnish analytics, insights, and business intelligence. Skilled at data exploration and presenting visualizations for technical and non-technical audiences. Currently, seeking Data Analytics opportunities as a Data/People Analyst.
 
 SKILLS
 
 Languages: Python (Numpy, Pandas, Scikit-Learn) SQL
-Data Collection: CSV, JSON, Web-Scraping
-Data Visualization: Excel, Matplot Lib, Plotly, Power BI, Tableau Business: People/Project Management, Operations, Research, Strategy
 
-CERTIFICATIONS JavaScript | React | Tableau
-Springboard, Data Analytics Certification (Industry-leading, Intensive, 400 hours Data Analytics Course) – 2020 - 2022
-CareerFoundry, Full-Stack Web Development Immersion Certification – 2019 - 2020
+Data Collection: CSV, JSON, Web-Scraping 
 
-PROJECTS
+Data Visualization: Excel, Matplot Lib, Plotly, Power BI, Tableau 
 
-People Analytics Case Study – 
+Business: People/Project Management, Operations, Research, Strategy 
 
-Proposed strategies to decrease attrition through training and compensation
+CERTIFICATIONS
 
-• Used Adaboostclassifier; Decision-Tree Classifier; Logistic Regression; Random-Forest Generator; Seaborn; 
-Sklearn to analyze employee satisfaction, tenure, and performance 
+Springboard, Data Analytics Certification (Industry-leading, Intensive, 400 hours Data Analytics Course) – 2020 - 2022 
 
-Global PISA Scores –
+CareerFoundry, Full-Stack Web Development Immersion Certification – 2019 - 2020 
 
-•  Benchmarked top-nations as a basis for creating more equity in global education standards
-Univariate data analysis of 2012 OECD PISA rankings with visualizations (executive, technical and non-technical)
+PROJECTS 
+
+People Analytics Case Study – Proposed strategies to decrease attrition through training and compensation 
+
+•	Used Adaboostclassifier; Decision-Tree Classifier; Logistic Regression; Random-Forest Generator; Seaborn; Sklearn to analyze employee satisfaction, tenure, and performance 
+
+Global PISA Scores – Benchmarked top-nations as a basis for increasing global equity and education standards 
+•	Univariate data analysis of 2012 OECD PISA rankings with visualizations (executive, technical and non-technical)
 
 RECENT BUSINESS EXPERIENCE
 
-Career Coach
-
-January 2021 – Present
-
+Career Coach	January 2021 – Present
 CareerFoundry | Remote to Berlin, Germany and internationally
+
 Career coach for UI/UX design, Web Development, and Data Analytics/Science students. 
 
-Duties include –
+Duties include – 
 
-• Partner with students to create customized job search plans and strategies (concept to job-acceptance)
-• Advise an international student roster in a variety of time zones around the world
+•	Partner with students to create customized job search plans and strategies (concept to job-acceptance) 
+•	Advise an international student roster in a variety of time zones around the world
 
-Career Note: Held various Executive roles with increasing responsibilities in Silicon Valley Mar. 2000 – Dec. 2011 PREVIOUS TEACHING EXPERIENCE
+Career Note: Executive roles, e.g., Manager., Sr. Manager., Director, VP, in Silicon Valley Mar. 2000 – Dec. 2011
 
-Adjunct Professor March 2018 – March 2021
+PREVIOUS TEACHING EXPERIENCE
 
+Adjunct Professor	March 2018 – March 2021
 Temple University Japan | Tokyo, Japan
 
 Worked with undergraduate students (on-campus/virtually); courses included business, communication, creativity, critical thinking, and presentation and academic research. Guest lectured at Hosei University (in Tokyo).
 
-• Developed and executed education strategy by adapting curriculum to implement applied-based pedagogical frameworks—encouraged students to embrace shift in thinking from Confucian thinking to Socratic questioning
+•	Developed and executed education strategy by adapting curriculum to implement applied-based pedagogical frameworks—encouraged students to embrace shift in thinking from Confucian thinking to Socratic questioning
 
-Career Note: Held various Assistant Professor positions in South Korea and Vietnam Mar. 2011 – Dec. 2017 EDUCATION
+Career Note: Held various Assistant Professor positions in South Korea and Vietnam	Mar. 2011 – Dec. 2017
 
-Doctorate in Education (Ed.D.) in Organizational Change and Leadership | University of Southern California Dissertation: Access, Agency and Ascent: A Case Study of How South Korean Students Navigate Their Educational Choices for Advancing Their Career Development
+EDUCATION
+
+Doctorate in Education (Ed.D.) in Organizational Change and Leadership | University of Southern California
+
+Dissertation: Access, Agency and Ascent: A Case Study of How South Korean Students Navigate Their Educational Choices for Advancing Their Career Development 
 
 Coursework (included): Diversity, Equity & Inclusion, Human Resources Management, Organizational Change, Crisis Management and Leadership, Systems Analysis
 
