@@ -2,6 +2,8 @@
 
 SUMMARY
 
+Organizational Change and Leadership: Guiding resourceful humans with integrity and strategic-management | EdTech, Data/People Analyst | Python | SQL | Storytelling |
+
 Process-oriented data analyst with a background in Python, SQL, and Tableau. Experienced in research and utilizing data to furnish analytics, insights, and business intelligence. Skilled at data exploration and presenting visualizations for technical and non-technical audiences. Currently, seeking Data Analytics opportunities as a Data/People Analyst.
 
 SKILLS
@@ -31,7 +33,26 @@ Global PISA Scores – Benchmarked top-nations as a basis for increasing global 
 
 RECENT BUSINESS EXPERIENCE
 
-Career Coach	January 2021 – Present
+Career Coach, September 2021 – Present
+Mimo | Remote to Vienna, Austria and internationally
+
+• Global leader in technical learning design and implementation with over a decade of experience (including my tenure in Higher Education).
+• Plan, lead, and administer digital educational opportunities within the global technology and innovation space.
+• Draft and implement complex, data-based learning systems in an environment of continuous improvement.
+
+Working 100%-remotely incorporating research and my international and professional expertise - Career Services provided range from conceptualizing and crafting, individualized, career narratives to systematic job-search strategies and planning for successfully completing a career transition into tech-related roles.
+
+Brought on to establish the firm’s Career Services organization -
+
+1. Devised and built a holistic Career Change Guide for (early-career) end-to-end or modular (mid-career onward), post-Front End Web Development bootcamp, job-search readiness.
+
+2. Deliver ongoing support for Mimo’s, worldwide, learning-community with group webinars and 1:1 Career Coaching Calls, etc.
+
+3. Mimo's graduates have accepted a range of opportunities from established firms to Start-up organizations across the globe.
+
+(Germany) App Magazine’s 2022 App of the Year.
+
+Career Coach, January 2021 – Present
 CareerFoundry | Remote to Berlin, Germany and internationally
 
 Career coach for UI/UX design, Web Development, and Data Analytics/Science students. 
@@ -99,7 +120,6 @@ A deep-appreciation for receiving mentorship and demonstrated business expertise
  • Co-founded a mobile phone application company - concept to commercialization - including raising $5 million in Venture Capital
 
  • Set-up; trained and hired a Back Office staff of 25 in Hyderabad, India
-
 
 
 
