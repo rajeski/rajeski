@@ -48,7 +48,7 @@ Managing / recruiting a team of part and full-time Behavioral / Technical Coache
 
 Planning and organizing Partnership Management, e.g., Google and Fireside Chats (Alumni-spotlight talks sharing their successful transitions into Tech-fields); 
 
-Example, Course Report, “9 AI Tools to Use in Your Tech Job Search in 2024”- https://www.coursereport.com/blog/9-ai-tools-to-use-in-your-tech-job-search-in-2024-with-coding-temple
+Example, Course Report, “9 AI Tools to Use in Your Tech Job Search in 2024”- https://t.ly/H2AGp 
 
 Creating customized course content; 
 
