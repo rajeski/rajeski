@@ -33,7 +33,30 @@ Global PISA Scores – Benchmarked top-nations as a basis for increasing global 
 
 RECENT BUSINESS EXPERIENCE
 
-Career Coach, September 2021 – Present
+Head of Career Services, October 2023 - Present
+Coding Temple | Remote to Chicago, Illinois 
+
+Stabilized; rebuilt and expanded the Careers’ Organization. 
+
+* In 2023, coached 30plus students land gainful jobs in Technology-roles with an average salary increase of $70K. 
+
+* In 2024, coached 30plus students land gainful jobs in Technology-roles with an average salary increase of $59K. 
+
+In parallel, my responsibilities also involved (list not all-inclusive) -
+
+Managing / recruiting a team of part and full-time Behavioral / Technical Coaches and Reverse-Recruiters focused on providing world-class, end-to-end, Career Services and Support. 
+
+Planning and organizing Partnership Management, e.g., Google and Fireside Chats (Alumni-spotlight talks sharing their successful transitions into Tech-fields); 
+
+Example, Course Report, “9 AI Tools to Use in Your Tech Job Search in 2024”- https://www.coursereport.com/blog/9-ai-tools-to-use-in-your-tech-job-search-in-2024-with-coding-temple
+
+Creating customized course content; 
+
+Community-building; and, 
+
+Curating customized and targeted job-leads.
+
+Career Coach, September 2022 – October 2023
 Mimo | Remote to Vienna, Austria and internationally
 
 • Global leader in technical learning design and implementation with over a decade of experience (including my tenure in Higher Education).
@@ -46,7 +69,7 @@ Brought on to establish the firm’s Career Services organization -
 
 1. Devised and built a holistic Career Change Guide for (early-career) end-to-end or modular (mid-career onward), post-Front End Web Development bootcamp, job-search readiness.
 
-2. Deliver ongoing support for Mimo’s, worldwide, learning-community with group webinars and 1:1 Career Coaching Calls, etc.
+2. Delivered ongoing support for Mimo’s, worldwide, learning-community with group webinars and 1:1 Career Coaching Calls, etc.
 
 3. Mimo's graduates have accepted a range of opportunities from established firms to Start-up organizations across the globe.
 
