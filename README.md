@@ -2,7 +2,7 @@
 
 SUMMARY
 
-Organizational Change and Leadership: Guiding resourceful humans with integrity and strategic-management | EdTech, Data/People Analyst | Python | SQL | Storytelling |
+Organizational Change and Leadership | Author | Data/People Analyst | EdTech | GTM | Learning and Development | Operations | Researcher | Storytelling | Strategic Partnerships | 2x Co-founder
 
 Process-oriented data analyst with a background in Python, SQL, and Tableau. Experienced in research and utilizing data to furnish analytics, insights, and business intelligence. Skilled at data exploration and presenting visualizations for technical and non-technical audiences. Currently, seeking Data Analytics opportunities as a Data/People Analyst.
 
@@ -33,7 +33,7 @@ Global PISA Scores – Benchmarked top-nations as a basis for increasing global 
 
 RECENT BUSINESS EXPERIENCE
 
-Head of Career Services, October 2023 - Present
+Head of Career Services, October 2023 - June 2024
 Coding Temple | Remote to Chicago, Illinois 
 
 Stabilized; rebuilt and expanded the Careers’ Organization. 
@@ -75,7 +75,7 @@ Brought on to establish the firm’s Career Services organization -
 
 (Germany) App Magazine’s 2022 App of the Year.
 
-Career Coach, January 2021 – Present
+Career Coach, January 2021 – March 2025
 CareerFoundry | Remote to Berlin, Germany and internationally
 
 Career coach for UI/UX design, Web Development, and Data Analytics/Science students. 
