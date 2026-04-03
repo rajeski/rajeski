@@ -4,7 +4,7 @@ SUMMARY
 
 Organizational Change and Leadership | Author | Data/People Analyst | EdTech | GTM | Learning and Development | Operations | Researcher | Storytelling | Strategic Partnerships | 2x Co-founder
 
-Process-oriented data / people analyst with a background in Python, SQL, and Tableau. Experienced in research and utilizing data to furnish analytics, insights, and business intelligence. Skilled at data exploration and presenting visualizations for technical and non-technical audiences. Currently, seeking Data Analytics opportunities as a Data/People Analyst.
+Process-oriented analyst with a background in Python, SQL, and Tableau. Experienced in research and utilizing data to furnish analytics, insights, and business intelligence. Skilled at data exploration and presenting visualizations for technical and non-technical audiences. Currently, seeking Data Analytics opportunities as a Data/People Analyst.
 
 SKILLS
 
