@@ -38,9 +38,9 @@ Coding Temple | Remote to Chicago, Illinois
 
 Stabilized; rebuilt and expanded the Careers’ Organization. 
 
-* In 2023, coached 30plus students land gainful jobs in Technology-roles with an average salary increase of $70K. 
+* In 2023, coached Xplus students land gainful jobs in Technology-roles with an average salary increase of $70K. 
 
-* In 2024, coached 30plus students land gainful jobs in Technology-roles with an average salary increase of $59K. 
+* In 2024, coached Yplus students land gainful jobs in Technology-roles with an average salary increase of $59K. 
 
 In parallel, my responsibilities also involved (list not all-inclusive) -
 
