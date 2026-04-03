@@ -142,7 +142,7 @@ A deep-appreciation for receiving mentorship and demonstrated business expertise
 
  • Co-founded a mobile phone application company - concept to commercialization - including raising $5 million in Venture Capital
 
- • Set-up; trained and hired a Back Office staff of 25 in Hyderabad, India
+ • Set-up; trained and hired a Back Office staff of 50 in Hyderabad, India
 
 
 
